@@ -1,5 +1,5 @@
 # 不懂这些线性代数知识 别说你是搞机器学习的
-
+$E = \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}$
 ---
 
 ![](http://shareditor-shareditor.oss-cn-beijing.aliyuncs.com/dynamic/thumb_8_default_big.png)
