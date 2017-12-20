@@ -2,6 +2,8 @@
 $E = \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}$
 ---
 
+`$$c=\sqrt{a^2 + b^2}$$`
+
 ![](http://shareditor-shareditor.oss-cn-beijing.aliyuncs.com/dynamic/thumb_8_default_big.png)
 
   
